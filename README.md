@@ -32,12 +32,6 @@ Neste projeto, exploraremos sete classes diferentes, cada uma com sua responsabi
 ### 7. Navegador
 - Uma classe que implementa métodos para exibir páginas, adicionar novas abas e atualizar páginas em um navegador de internet.
 
-## Como Executar o Projeto
-
-1. Clone este repositório para sua máquina local.
-2. Abra o projeto em sua IDE Java favorita.
-3. Execute a classe "Aparelho" para iniciar o programa e explorar as funcionalidades das diferentes classes.
-
 ## Contribuindo
 
 Se você deseja contribuir com melhorias ou correções para este projeto, sinta-se à vontade para abrir uma "pull request" ou um "issue" no GitHub.
